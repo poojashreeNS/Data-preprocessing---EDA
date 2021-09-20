@@ -17,7 +17,7 @@ Prediction - Using Cosine Similarity
 - Removing formatting in the data and getting them to a standard format.
 
 ### Data Visualization
-    Using Plotly Library
+    Using matplotlib Library
 
 - Analysed different features by ploting graphically.
  
