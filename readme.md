@@ -29,3 +29,7 @@ Prediction - Using Cosine Similarity
 ### GitHub Files
 
 This folder contains solution that is explained above along with the dataset.
+
+### OpenRefine video Location
+
+https://drive.google.com/file/d/1ryiRtuVx-6HNVa-IVy82Z__nPylg_apL/view?usp=sharing
